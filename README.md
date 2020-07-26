@@ -1,9 +1,8 @@
 ### Hi there, how's it going? 👋
 
-> Data Scientist by the name of Cindy
-
 Welcome to my virtual home!  
-Data science is constantly evolving meaning my learning will be endless. This is where I will be continuously learning through new projects as well as finding improvements to existing ones!  
+I'm constantly furnishing this space with new projects and polishing up existing ones.  
+My "online shopping" consists of browsing for project ideas, gathering intel on data science tips and tricks, and ~~spamming~~ advancing my slack channels with exciting emojis.  
 Feel free to reach out, always down for a chat! :)
 
 <!--
