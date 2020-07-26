@@ -2,8 +2,8 @@
 
 > Data Scientist by the name of Cindy
 
-Welcome to my virtual home!
-Data science is constantly evolving meaning my learning will be endless. This is where I will be continuously learning through new projects as well as finding improvements to existing ones!
+Welcome to my virtual home!  
+Data science is constantly evolving meaning my learning will be endless. This is where I will be continuously learning through new projects as well as finding improvements to existing ones!  
 Feel free to reach out, always down for a chat! :)
 
 <!--
