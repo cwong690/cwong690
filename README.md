@@ -4,9 +4,9 @@ Welcome to my virtual home!
 I'm constantly furnishing this space with new projects and polishing up existing ones.  
 My "online shopping" consists of browsing for project ideas, gathering intel on data science tips and tricks, and ~~spamming~~ advancing my slack channels with exciting emojis. 
 
-🔭 Currently...    
-   - Working on Seattle traffic data to identify high-risk collision spots and propose recommendations for improvement.
-     Check it out: https://github.com/DataCircles/traffic_collisions_ml_team1
+🔭 Currently coding away on...    
+   - Seattle traffic data to identify high-risk collision spots and propose recommendations for improvement.  
+   Check it out: https://github.com/DataCircles/traffic_collisions_ml_team1
 
 📫 Feel free to reach out, always down for a chat! :)
 
